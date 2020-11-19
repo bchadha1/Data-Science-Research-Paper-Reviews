@@ -1,0 +1,28 @@
+SocPipes F2020 Review
+===========================================================================
+* Paper: Truncating the Y-Axis: Threat or Menace?
+* Reviewer: Bhuvan Chadha <bchadha1@binghamton.edu>
+
+Overall merit
+-------------
+3. Ok
+
+Reviewer expertise
+------------------
+3. Knowledgeable
+
+Strengths
+---------
+The paper has been written with a detailed analytical research.
+Several experiments have been performed to reach to a final discussion.
+
+Weaknesses
+----------
+1. The paper seems to be leaning toward the idea against Y-axis truncation instead of an neutral approach.
+2. The experiments and surveys put forward were conducted on a small number of participants, i.e, only on prolific platform, including only those above a certain threshold based on their accuracy.
+3. Several areas/terms/context were somewhat difficult to understand for a reader from a non-analytics background.
+4. The data collected, experiments conducted and results drawn were mostly based on statistical/mathematical data and hypothesis rather than visuals and the real-world impact caused by misleading graphs.
+
+Comments for author
+-------------------
+The research topic is great. Graphs are one of the most important data visualization sources which often influence the trends, if manipulated in ways shown in the research paper. The research should have been on other types of graphs, too, instead of just bar and line graphs, for example, pie charts, tree-maps, and scatter and bubble charts, so that readers understand the wider point of view and why these issues in data visualization should not be ignored.
