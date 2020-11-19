@@ -1,0 +1,48 @@
+SocPipes F2020 Review
+===========================================================================
+* Paper: Mobilizing the Trump Train: Understanding Collective Action in
+  a Political Trolling Community
+* Reviewer: Bhuvan Chadha <bchadha1@binghamton.edu>
+
+Overall merit
+-------------
+4. Good
+
+Reviewer expertise
+------------------
+3. Knowledgeable
+
+Strengths
+---------
+1. The research has been done in a detailed but straightforward and easy to understand manner on Reddit data.
+2. It is a good study on sentiment analysis and the real time reactions of the general public on politics.
+3. It highlights the trolling community and the ways social forums run from the political perspective, which is a crucial aspect to understand the community mood and behavior around elections.
+
+Weaknesses
+----------
+1. The research has been done on resources majorly from a single platform (/r/The_Donald subreddit).
+2. The analysis is clearly one sided which showed the behavioral patterns and 'Call to action' styles of only the Donald Trump supporters.
+3. The sentimental analysis done majorly shows the aggressive style, trolling methods and behavioral patterns of political campaigns but don't cover soft part or the positive behavior of the supporters.
+
+Paper summary
+-------------
+The research paper focuses on the trolling communities on Reddit, particularly on subreddit 'The_Donald'. The study is done over 16 million comments/reactions posted by the users or the bots to find understand two major aspects -
+1. Behavioral patterns of the most active participants in a political trolling community
+2. The ways by which political trolling communities mobilize its members to action
+
+Data Collection
+The major part of the data was collected from Reddit. Over 16.3 million posts, comments, upvotes and downvotes of The_Donald subreddit from June 30th, 2015 to February 28th 2017 were taken. Wikipedia was used to collect nicknames of opponents of the Trump. Python library 'profanity filter' was used to identify profanity used by the users.
+
+Behavioral patterns were studied by the slangs used and the involvements of the users and the bots and the pattern in the generated slangs during the comments, like 'centipedes' and 'Little Rocket Man', and pro-Trump words like 'MAGA', in this one-sided research paper.
+Styles for calling a political trolling community to action were measured using 3 methods - 
+1. Troll Slang Style - 40% of all the trolling users who called for action used this style by using slang words like 'kek' and strong words like 'deportation'.
+2. Viral News Style - 9% of the trolling users who called for action used this style by posting a news link and making it viral on the social media
+3. Historian Style - 51% users made this type of action calls by first explaining the political ecosystem, history or background and then asking people to take actions.
+
+The detailed explanation in the Historian Style helped facilitate long term participation by the community by reasoning in the current political ecosystem.
+
+Finally, the individuals with most sustained participation used socio-technical tools, such as bots, to maintain themselves engaged and entertained. The findings and study can help to design civic media and troll moderation strategies.
+
+Comments for author
+-------------------
+The researches done on political issues is always controversial. Political sentiment/behavior analysis should always be neutral and should not highlight only one-sided aggression.
